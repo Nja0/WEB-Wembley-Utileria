@@ -2,7 +2,7 @@ const products = [
   {
     name: "Producto 1",
     price: "$3.000",
-    image: "https://via.placeholder.com/300x200",
+    image: "./img/NikeAirZoom-Rosa.JPG",
     message: "Hola, quiero comprar el Producto 1"
   },
   {
